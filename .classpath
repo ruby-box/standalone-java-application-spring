@@ -16,13 +16,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/workspace/NP-TRS_DEV/050_Net-Protect_TRS/WebContent/WEB-INF/lib/org.springframework.beans-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/workspace/NP-TRS_DEV/050_Net-Protect_TRS/WebContent/WEB-INF/lib/org.springframework.context-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/workspace/NP-TRS_DEV/050_Net-Protect_TRS/WebContent/WEB-INF/lib/org.springframework.core-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/workspace/NP-TRS_DEV/050_Net-Protect_TRS/WebContent/WEB-INF/lib/log4j-1.2.16.jar"/>
-	<classpathentry kind="lib" path="C:/workspace/NP-TRS_DEV/050_Net-Protect_TRS/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/workspace/NP-TRS_DEV/050_Net-Protect_TRS/WebContent/WEB-INF/lib/org.springframework.asm-3.1.1.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/workspace/NP-TRS_DEV/050_Net-Protect_TRS/WebContent/WEB-INF/lib/org.springframework.expression-3.1.1.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/workspace/NP-TRS_DEV/050_Net-Protect_TRS/WebContent/WEB-INF/lib/cglib-nodep-3.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
