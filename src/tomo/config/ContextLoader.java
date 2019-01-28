@@ -3,11 +3,9 @@ package tomo.config;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.stereotype.Component;
 
 import tomo.config.factory.ServiceFactory;
 
-@Component
 @Configuration
 public class ContextLoader {
 	private static ApplicationContext context;
